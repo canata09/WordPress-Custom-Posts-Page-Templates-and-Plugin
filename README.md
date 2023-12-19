@@ -11,6 +11,29 @@
 
 Extensible architecture allows developers to create and share their own plugins and extensions, expanding the capabilities of the XYZ Plugin.
 
+```
+a-a-selector - WordPress Custom Post Type Plugin
+b-b-tables - Using WP_Query with Custom Post Type
+c-c-tabbed-weight - Working with Custom Post Type
+d-d-optional-roaming - C
+e-e-gallery-interior - C
+f-f-arithmetic-paging - C
+g-g-spinoza-full - C
+h-target-selector-main - C
+i-text-hover-main - C
+j-single-line-main - C
+k-after-pseudo-main - C
+l-card-responsive-main - C
+m-extra-canvas-tag - C
+n-pure-span-slider - C
+o-html-tags-main - C
+p-image-popup-box - C
+r-pure-span-slider - C
+s-html-tags-main - C
+t-tabbed-fields - Using Page Templates with Custom Post Type
+u-optional-roam-examples - Using Page Templates
+```
+
 ## Key Features
 
 - 🚀 **Feature 1:** Accelerate your workflow with a set of intuitive shortcuts and automation tools. Spend less time on repetitive tasks and more time on what truly matters.
