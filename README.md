@@ -13,9 +13,9 @@ Extensible architecture allows developers to create and share their own plugins 
 
 ```
 a-a-selector - WordPress Custom Post Type Plugin
-b-b-tables - Using WP_Query with Custom Post Type
-c-c-tabbed-weight - Working with Custom Post Type
-d-d-optional-roaming - C
+b-b-tables - More options for your custom post type
+c-c-tabbed-weight - Using WP_Query with Custom Post Type
+d-d-optional-roaming - Working with Custom Post Type
 e-e-gallery-interior - C
 f-f-arithmetic-paging - C
 g-g-spinoza-full - C
