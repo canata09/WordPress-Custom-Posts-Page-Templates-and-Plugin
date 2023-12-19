@@ -47,9 +47,12 @@ u-optional-roam-examples - Using Page Templates
 
 Getting started with the XYZ Plugin is a breeze:
 
-1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
-2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
-3. **Exploration:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
+1. **Posts:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
+2. **Pages:** Use your provided license key to activate the plugin and unlock its full potential.
+3. **Attachments:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
+4. **Revisions:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
+5. **Navigation Menus:** Use your provided license key to activate the plugin and unlock its full potential.
+6. **Custom CSS & Changesets:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
 
 ## Installation
 
