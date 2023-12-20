@@ -15,15 +15,15 @@ Extensible architecture allows developers to create and share their own plugins 
 a-a-selector - WordPress Custom Post Type Plugin
 b-b-tables - More options for your custom post type
 c-c-tabbed-weight - Using WP_Query with Custom Post Type
-d-d-optional-roaming - Working with Custom Post Type
-e-e-gallery-interior - C
-f-f-arithmetic-paging - C
-g-g-spinoza-full - C
-h-target-selector-main - C
-i-text-hover-main - C
+d-d-optional-roaming - Tabbed Query
+e-e-gallery-interior - wp(){ $wp_query } . template_loader.php . do_action('template_redirect') . theme template
+f-f-arithmetic-paging - Plugin Repo . wp-load.php ABSPATH
+g-g-spinoza-full - do_action('admin_init') . admin-header.php & admin-footer.php . do_action('wp_ajax_$_POST['action'])
+h-target-selector-main - /wp-admin/ admin-ajax.php DOING_AJAX . WP_ADMIN
+i-text-hover-main - /wp-admin/ admin.php WP_ADMIN
 j-single-line-main - Working with sub-Categories
 k-after-pseudo-main - Get Categories Arrays
-l-card-responsive-main - C
+l-card-responsive-main - Working with Custom Post Type
 m-extra-canvas-tag - C
 n-pure-span-slider - C
 o-html-tags-main - C
