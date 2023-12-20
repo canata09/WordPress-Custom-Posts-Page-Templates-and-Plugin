@@ -23,13 +23,13 @@ h-target-selector-main - /wp-admin/ admin-ajax.php DOING_AJAX . WP_ADMIN
 i-text-hover-main - /wp-admin/ admin.php WP_ADMIN
 j-single-line-main - Working with sub-Categories
 k-after-pseudo-main - Get Categories Arrays
-l-card-responsive-main - Working with Custom Post Type
-m-extra-canvas-tag - C
-n-pure-span-slider - C
-o-html-tags-main - C
-p-image-popup-box - C
+l-card-responsive-main - C
+m-extra-canvas-tag - Create New in New Admin Bar Menu v1
+n-pure-span-slider - Create New in New Admin Bar Menu v2
+o-html-tags-main - Create New in New Admin Bar Menu v3
+p-image-popup-box - Create New in New Admin Bar Menu v4
 r-pure-span-slider - C
-s-html-tags-main - C
+s-html-tags-main - Working with Custom Post Type
 t-tabbed-fields - Using Page Templates with Custom Post Type
 u-optional-roam-examples - Using Page Templates
 ```
