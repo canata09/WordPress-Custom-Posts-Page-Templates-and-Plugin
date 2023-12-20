@@ -22,7 +22,7 @@ g-g-spinoza-full - C
 h-target-selector-main - C
 i-text-hover-main - C
 j-single-line-main - C
-k-after-pseudo-main - C
+k-after-pseudo-main - Get Categories Arrays
 l-card-responsive-main - C
 m-extra-canvas-tag - C
 n-pure-span-slider - C
