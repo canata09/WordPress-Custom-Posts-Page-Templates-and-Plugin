@@ -1,0 +1,12 @@
+
+p, h2 {
+	background-color: red;
+}
+
+h2, .h2 {
+	background-color: red;
+}
+
+.site-main h2 {
+	background-color: red;
+}
